@@ -1,3 +1,4 @@
+5 REM Welcome to InputAT
 10 LET x=0: LET y=0: LET a$=""
 20 PRINT AT x,y;a$; FLASH 1; CHR$(32); FLASH 0; : PAUSE 0
 30 IF INKEY$ = CHR$(12) THEN LET a$=a$(1 to ( len a$-1)) : PRINT FLASH 0; AT x,y;a$;"   "
