@@ -1,1 +1,1 @@
-# InputAT
+# InputAT allows you to receive user input from anywhere on the screen, contrary to the default INPUT instruction. InputAT should be a function within your program specifying the x,y cursur screen starting postion, whereas INPUT forces lower left of screen only.
